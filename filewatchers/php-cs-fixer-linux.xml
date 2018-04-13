@@ -3,9 +3,9 @@
     <option name="arguments" value="/home/$YOURUSER$/.config/composer/vendor/bin/php-cs-fixer fix --allow-risky=yes $FileDir$/$FileName$" />
     <option name="checkSyntaxErrors" value="true" />
     <option name="description" />
-    <option name="exitCodeBehavior" value="ALWAYS" />
+    <option name="exitCodeBehavior" value="ERROR" />
     <option name="fileExtension" value="php" />
-    <option name="immediateSync" value="true" />
+    <option name="immediateSync" value="false" />
     <option name="name" value="php-cs-fixer" />
     <option name="output" value="" />
     <option name="outputFilters">
